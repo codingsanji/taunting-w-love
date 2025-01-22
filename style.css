@@ -1,7 +1,7 @@
 /* FONTS */
 @font-face {
     font-family: derania;
-    src: url(font/derania-font/DeraniaDemoPersonalLicense-JRlWB.otf);
+    src: url(font/derania-font-/DeraniaDemo-PersonalLicense.otf);
 }
 @font-face {
     font-family: inflate;
@@ -9,7 +9,7 @@
 }
 @font-face {
     font-family: silence;
-    src: url(font/tf-silence-font/TfSilenceDemoRegular-qZRar.ttf);
+    src: url(font/tf_silence/TfsilencedemoRegular.otf);
 }
 
 /*EVERYTHING ELSE*/
